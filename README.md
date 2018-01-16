@@ -1,10 +1,14 @@
 # pgfun
 
-A Clojure library designed to ... well, that part is up to you.
+Some fun with pg
+Depends on: Bash, Docker with postgres image pulled, Leiningen
 
 ## Usage
 
-FIXME
+As of 1/15/18:
+
+1) ./build.sh
+2) ./run.sh
 
 ## License
 
