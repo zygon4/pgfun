@@ -12,14 +12,15 @@ As of 1/22/18:
 ### To store
 
 Accepts JSON with fields (all required)
-| Name    | Description |
-|---------|-------------|
-| asset   | asset name  |
-| date    | yyyy-MM-dd  |
-| open    | open price  |
-| high    | daily high  |
-| low     | daily low   |
-| close   | close price |
+
+| Name      | Description   |
+| --------- | ------------- |
+| asset     | asset name    |
+| date      | yyyy-MM-dd    | 
+| open      | open price    |
+| high      | daily high    |
+| low       | daily low     |
+| close     | close price   |
 
 Storage example:
 
