@@ -1,7 +1,11 @@
 # pgfun
 
-Some fun with pg
-Depends on: Bash, Docker with postgres image pulled, Leiningen
+Some fun with Postgres and Clojure's Liberator library
+<br>
+Depends on: Bash, Docker **with postgres image pulled**, Leiningen
+<br>
+
+See run.sh for details on what is expected from Docker
 
 ## Usage
 
