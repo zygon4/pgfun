@@ -11,4 +11,4 @@ then
     fi
 fi
 
-lein run "foo"
+lein ring server
